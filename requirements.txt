@@ -1,0 +1,15 @@
+torch>=2.2
+transformers>=4.43
+sentence-transformers>=2.7
+faiss-cpu>=1.8.0
+langchain>=0.2.11
+langchain-community>=0.2.10
+langchain-core>=0.2.27
+uvicorn>=0.30
+fastapi>=0.112
+pydantic>=2.8
+python-dotenv>=1.0
+streamlit>=1.36
+numpy>=1.26
+pandas>=2.2
+scikit-learn>=1.5

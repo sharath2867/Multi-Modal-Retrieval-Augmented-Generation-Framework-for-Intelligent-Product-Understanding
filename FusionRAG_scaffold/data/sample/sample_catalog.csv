@@ -1,0 +1,3 @@
+product_id,title,bullet_points,description,image_path
+1,Red Running Shoe,"['breathable mesh','heel support']",Lightweight running shoe,data/sample/images/red_shoe.jpg
+2,Black Leather Belt,"['genuine leather','silver buckle']",Classic formal belt,data/sample/images/black_belt.jpg

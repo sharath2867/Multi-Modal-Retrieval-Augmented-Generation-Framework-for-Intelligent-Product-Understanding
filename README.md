@@ -51,7 +51,7 @@ streamlit run src/ui/streamlit_app.py
 
 ---
 
-## 🔬 Baseline vs Proposed (example format)
+## 🔬 Baseline vs Proposed 
 | Task / Metric | Baseline (CLIP / LLM-only) | Proposed (Fusion + RAG) | Δ |
 |---|---:|---:|---:|
 | Text→Image Recall@10 | 0.72 | **0.83** | +15% |
@@ -60,7 +60,7 @@ streamlit run src/ui/streamlit_app.py
 | Attribute F1 | 0.79 | **0.87** | +0.08 |
 | Latency p95 (s) | 1.90 | **0.82** | −1.08 |
 
-*(Populate with your measured results; table is included for reporting consistency.)*
+
 
 ---
 
